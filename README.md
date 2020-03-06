@@ -14,7 +14,7 @@ notes about zkp and implementation from scratch by [par+13]
 - [ ] Implementation
     >- [ ] QAP
     >- [ ] encrypto
-        >- [ ] ECC
-        >- [ ] ECC Pair
-        >- [ ] FHE
+    >>- [ ] ECC
+    >>- [ ] ECC Pair
+    >>- [ ] FHE
     >- [ ] circuit
